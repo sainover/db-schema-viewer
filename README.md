@@ -1,1 +1,1 @@
-# db-schema-viewer
+# ERDiagram

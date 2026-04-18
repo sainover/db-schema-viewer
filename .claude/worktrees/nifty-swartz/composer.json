@@ -1,6 +1,6 @@
 {
     "name": "sainover/erdiagram",
-    "description": "Laravel Package for visualizing DB schema",
+    "description": "Laravel Package for visualizing DB schema based on migration files",
     "autoload": {
         "psr-4": {
             "Sainover\\ERDiagram\\": "src/"
