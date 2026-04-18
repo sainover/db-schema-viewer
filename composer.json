@@ -1,0 +1,23 @@
+{
+    "name": "sainover/db-schema-viewer",
+    "description": "Laravel Package for visualizing DB schema based on migration files",
+    "autoload": {
+        "psr-4": {
+            "Sainover\\DbSchemaViewer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Yerlan Kussainov",
+            "email": "sainover.code@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sainover\\DbSchemaViewer\\ServiceProvider"
+            ]
+        }
+    },
+    "require": {}
+}
